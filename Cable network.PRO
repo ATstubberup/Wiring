@@ -1,4 +1,4 @@
-﻿.PCsCADProject 'C:\Users\Andre_000\Dropbox\VIKINGS - PC SCHEMATIC\PROJEKT\Samlet Ledningsnet\Samlet Ledningsnet.PRO' V17.0 11 257 1191402560 '03-08-2015 11:34:08' 2 2500 500 2500 500 2500 Standard 1 "" "" 23 0
+﻿.PCsCADProject 'C:\Users\Andre_000\Dropbox\VIKINGS - PC SCHEMATIC\PROJEKT\Samlet Ledningsnet\Wiring\Samlet Ledningsnet.PRO' V17.0 7 257 1191541596 '05-08-2015 15:26:48' 2 2500 500 2500 500 2500 Standard 1 "" "" 23 0
 .Born 2 2 17.0 1190814575
 
 .xyz 0
